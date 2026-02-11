@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igor.xsantos1\\source\\repos\\jogoDaVelha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D865162E-069A-46A1-ADB5-D2AA150B1837}|jogoDaVelha.csproj|c:\\users\\igor.xsantos1\\source\\repos\\jogodavelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865162E-069A-46A1-ADB5-D2AA150B1837}|jogoDaVelha.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igor.xsantos1\\source\\repos\\classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igor.xsantos1\\source\\repos\\classes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\classes\\Program.cs",
+              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\classes\\Program.cs",
+              "RelativeToolTip": "..\\classes\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:13:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igor.xsantos1\\source\\repos\\jogoDaVelha\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\jogoDaVelha\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:07:53.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
