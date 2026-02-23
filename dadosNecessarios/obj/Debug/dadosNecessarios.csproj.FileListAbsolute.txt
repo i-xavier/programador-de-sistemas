@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\bin\Debug\dadosNecessarios.exe.config
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\bin\Debug\dadosNecessarios.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\bin\Debug\dadosNecessarios.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.frmFormularioSimples.resources
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\dadosNecessarios\obj\Debug\dadosNecessarios.exe.config

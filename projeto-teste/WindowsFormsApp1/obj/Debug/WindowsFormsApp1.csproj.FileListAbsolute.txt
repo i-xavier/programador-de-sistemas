@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\igor.xsantos1\source\repos\projeto-teste\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalculadoraFundo.resources
