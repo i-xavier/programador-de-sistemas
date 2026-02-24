@@ -34,9 +34,9 @@
             this.lblCidade = new System.Windows.Forms.Label();
             this.comboBoxCidade = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbFeminino = new System.Windows.Forms.RadioButton();
-            this.rbMasculino = new System.Windows.Forms.RadioButton();
             this.rbNaoBinario = new System.Windows.Forms.RadioButton();
+            this.rbMasculino = new System.Windows.Forms.RadioButton();
+            this.rbFeminino = new System.Windows.Forms.RadioButton();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.txtNumero = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
@@ -46,9 +46,11 @@
             // 
             this.txtNomeCompleto.Location = new System.Drawing.Point(37, 52);
             this.txtNomeCompleto.Name = "txtNomeCompleto";
-            this.txtNomeCompleto.Size = new System.Drawing.Size(317, 20);
+            this.txtNomeCompleto.Size = new System.Drawing.Size(254, 20);
             this.txtNomeCompleto.TabIndex = 0;
-            this.txtNomeCompleto.Text = "Insira seu nome completo";
+            this.txtNomeCompleto.Text = "Digite o nome completo";
+            this.txtNomeCompleto.TextChanged += new System.EventHandler(this.txtNomeCompleto_TextChanged);
+            this.txtNomeCompleto.Leave += new System.EventHandler(this.txtNomeCompleto_Leave);
             // 
             // lblDataNasc
             // 
@@ -102,16 +104,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Gênero";
             // 
-            // rbFeminino
+            // rbNaoBinario
             // 
-            this.rbFeminino.AutoSize = true;
-            this.rbFeminino.Location = new System.Drawing.Point(9, 36);
-            this.rbFeminino.Name = "rbFeminino";
-            this.rbFeminino.Size = new System.Drawing.Size(67, 17);
-            this.rbFeminino.TabIndex = 0;
-            this.rbFeminino.TabStop = true;
-            this.rbFeminino.Text = "Feminino";
-            this.rbFeminino.UseVisualStyleBackColor = true;
+            this.rbNaoBinario.AutoSize = true;
+            this.rbNaoBinario.Location = new System.Drawing.Point(201, 36);
+            this.rbNaoBinario.Name = "rbNaoBinario";
+            this.rbNaoBinario.Size = new System.Drawing.Size(80, 17);
+            this.rbNaoBinario.TabIndex = 2;
+            this.rbNaoBinario.TabStop = true;
+            this.rbNaoBinario.Text = "Não-Binário";
+            this.rbNaoBinario.UseVisualStyleBackColor = true;
             // 
             // rbMasculino
             // 
@@ -124,21 +126,21 @@
             this.rbMasculino.Text = "Masculino";
             this.rbMasculino.UseVisualStyleBackColor = true;
             // 
-            // rbNaoBinario
+            // rbFeminino
             // 
-            this.rbNaoBinario.AutoSize = true;
-            this.rbNaoBinario.Location = new System.Drawing.Point(201, 36);
-            this.rbNaoBinario.Name = "rbNaoBinario";
-            this.rbNaoBinario.Size = new System.Drawing.Size(80, 17);
-            this.rbNaoBinario.TabIndex = 2;
-            this.rbNaoBinario.TabStop = true;
-            this.rbNaoBinario.Text = "Não-Binário";
-            this.rbNaoBinario.UseVisualStyleBackColor = true;
+            this.rbFeminino.AutoSize = true;
+            this.rbFeminino.Location = new System.Drawing.Point(9, 36);
+            this.rbFeminino.Name = "rbFeminino";
+            this.rbFeminino.Size = new System.Drawing.Size(67, 17);
+            this.rbFeminino.TabIndex = 0;
+            this.rbFeminino.TabStop = true;
+            this.rbFeminino.Text = "Feminino";
+            this.rbFeminino.UseVisualStyleBackColor = true;
             // 
             // btnCadastrar
             // 
             this.btnCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCadastrar.Location = new System.Drawing.Point(583, 363);
+            this.btnCadastrar.Location = new System.Drawing.Point(37, 368);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(146, 51);
             this.btnCadastrar.TabIndex = 6;
@@ -150,9 +152,10 @@
             // 
             this.txtNumero.Location = new System.Drawing.Point(37, 12);
             this.txtNumero.Name = "txtNumero";
-            this.txtNumero.Size = new System.Drawing.Size(203, 20);
+            this.txtNumero.Size = new System.Drawing.Size(254, 20);
             this.txtNumero.TabIndex = 7;
-            this.txtNumero.Text = "Número cadastrado";
+            this.txtNumero.Text = "Digite o número cadastrado";
+            this.txtNumero.Leave += new System.EventHandler(this.txtNumero_Leave);
             // 
             // frmFormularioSimples
             // 
