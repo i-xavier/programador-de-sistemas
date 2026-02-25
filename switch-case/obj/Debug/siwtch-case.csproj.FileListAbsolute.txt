@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\bin\Debug\siwtch-case.exe.config
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\bin\Debug\siwtch-case.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\bin\Debug\siwtch-case.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch_case.frmSwitch.resources
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch_case.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.exe
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.pdb
+C:\Users\igor.xsantos1\source\repos\projeto-teste\siwtch-case\obj\Debug\siwtch-case.exe.config
