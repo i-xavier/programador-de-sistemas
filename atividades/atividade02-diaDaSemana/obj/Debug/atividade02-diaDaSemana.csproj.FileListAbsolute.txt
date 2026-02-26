@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\bin\Debug\atividade02-diaDaSemana.exe.config
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\bin\Debug\atividade02-diaDaSemana.exe
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\bin\Debug\atividade02-diaDaSemana.pdb
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02_diaDaSemana.frmFundo.resources
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02_diaDaSemana.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.exe
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.pdb
+C:\Users\igor.xsantos1\source\repos\atividades\atividade02-diaDaSemana\obj\Debug\atividade02-diaDaSemana.exe.config

@@ -30,9 +30,10 @@
         {
             this.txtBox = new System.Windows.Forms.TextBox();
             this.lblEstoque = new System.Windows.Forms.Label();
-            this.btnEnviar = new System.Windows.Forms.Button();
+            this.btnSaida = new System.Windows.Forms.Button();
             this.lblNotificacao = new System.Windows.Forms.Label();
             this.lblQtd = new System.Windows.Forms.Label();
+            this.btnEntrada = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtBox
@@ -53,16 +54,16 @@
             this.lblEstoque.TabIndex = 1;
             this.lblEstoque.Text = "Estoque";
             // 
-            // btnEnviar
+            // btnSaida
             // 
-            this.btnEnviar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEnviar.Location = new System.Drawing.Point(430, 296);
-            this.btnEnviar.Name = "btnEnviar";
-            this.btnEnviar.Size = new System.Drawing.Size(91, 34);
-            this.btnEnviar.TabIndex = 2;
-            this.btnEnviar.Text = "Enviar";
-            this.btnEnviar.UseVisualStyleBackColor = true;
-            this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
+            this.btnSaida.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSaida.Location = new System.Drawing.Point(430, 271);
+            this.btnSaida.Name = "btnSaida";
+            this.btnSaida.Size = new System.Drawing.Size(101, 34);
+            this.btnSaida.TabIndex = 2;
+            this.btnSaida.Text = "Saída";
+            this.btnSaida.UseVisualStyleBackColor = true;
+            this.btnSaida.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
             // lblNotificacao
             // 
@@ -70,9 +71,8 @@
             this.lblNotificacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNotificacao.Location = new System.Drawing.Point(199, 216);
             this.lblNotificacao.Name = "lblNotificacao";
-            this.lblNotificacao.Size = new System.Drawing.Size(441, 20);
+            this.lblNotificacao.Size = new System.Drawing.Size(0, 20);
             this.lblNotificacao.TabIndex = 3;
-            this.lblNotificacao.Text = "Digite na caixa de texto abaixo um valor que deseja dar saída.";
             // 
             // lblQtd
             // 
@@ -84,14 +84,26 @@
             this.lblQtd.TabIndex = 4;
             this.lblQtd.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // btnEntrada
+            // 
+            this.btnEntrada.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrada.Location = new System.Drawing.Point(430, 311);
+            this.btnEntrada.Name = "btnEntrada";
+            this.btnEntrada.Size = new System.Drawing.Size(101, 32);
+            this.btnEntrada.TabIndex = 5;
+            this.btnEntrada.Text = "Entrada";
+            this.btnEntrada.UseVisualStyleBackColor = true;
+            this.btnEntrada.Click += new System.EventHandler(this.btnEntrada_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnEntrada);
             this.Controls.Add(this.lblQtd);
             this.Controls.Add(this.lblNotificacao);
-            this.Controls.Add(this.btnEnviar);
+            this.Controls.Add(this.btnSaida);
             this.Controls.Add(this.lblEstoque);
             this.Controls.Add(this.txtBox);
             this.Name = "Form1";
@@ -105,9 +117,10 @@
 
         private System.Windows.Forms.TextBox txtBox;
         private System.Windows.Forms.Label lblEstoque;
-        private System.Windows.Forms.Button btnEnviar;
+        private System.Windows.Forms.Button btnSaida;
         private System.Windows.Forms.Label lblNotificacao;
         private System.Windows.Forms.Label lblQtd;
+        private System.Windows.Forms.Button btnEntrada;
     }
 }
 

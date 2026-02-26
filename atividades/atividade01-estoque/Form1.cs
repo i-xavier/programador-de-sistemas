@@ -55,5 +55,28 @@ namespace atividade01
                 MessageBox.Show("Valor inválido", "Erro");
             }
         }
+
+        private void btnEntrada_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int valor = Convert.ToInt32(txtBox.Text);
+
+
+                qtdEstoque += valor;
+
+                lblQtd.Text = qtdEstoque.ToString();
+
+                if(qtdEstoque >= 5)
+                    lblNotificacao.Text = "Foi adicionado mais " + valor.ToString() + " produto(s).\nEstoque Suficiente";
+                else
+                    lblNotificacao.Text = "Alerta: Baixo estoque.Por favor, reabasteça este produto.";
+
+            }
+            catch
+            {
+                MessageBox.Show("Valor inválido", "Erro");
+            }
+        }
     }
 }
