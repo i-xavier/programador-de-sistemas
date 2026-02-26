@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\atividades\\atividade01-estoque\\Form1.cs*",
               "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwDoAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T19:35:49.115Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:36:05.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T19:36:05.812Z"
             },
             {
               "$type": "Document",
@@ -56,11 +55,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\igor.xsantos1\\source\\repos\\atividades\\atividade01-estoque\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\atividades\\atividade01-estoque\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\igor.xsantos1\\source\\repos\\atividades\\atividade01-estoque\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T19:25:38.208Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-25T19:25:38.208Z"
             }
           ]
         }
