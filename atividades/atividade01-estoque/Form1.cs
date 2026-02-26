@@ -19,6 +19,8 @@ namespace atividade01
         public Form1()
         {
             InitializeComponent();
+
+            lblQtd.Text = qtdEstoque.ToString();
         }
 
         private void btnEnviar_Click(object sender, EventArgs e)
