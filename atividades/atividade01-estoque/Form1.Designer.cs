@@ -73,6 +73,7 @@
             this.lblNotificacao.Name = "lblNotificacao";
             this.lblNotificacao.Size = new System.Drawing.Size(0, 20);
             this.lblNotificacao.TabIndex = 3;
+            this.lblNotificacao.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblQtd
             // 
