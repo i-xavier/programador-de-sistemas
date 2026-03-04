@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\bin\Debug\arrayunidimensional-vetor.exe.config
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\bin\Debug\arrayunidimensional-vetor.exe
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\bin\Debug\arrayunidimensional-vetor.pdb
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional_vetor.frmVetor.resources
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional_vetor.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.exe
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.pdb
+C:\Users\igor.xsantos1\source\repos\atividades\atividade01\arrayunidimensional-vetor\obj\Debug\arrayunidimensional-vetor.exe.config
