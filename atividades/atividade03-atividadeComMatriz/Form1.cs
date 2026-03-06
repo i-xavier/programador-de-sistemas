@@ -14,6 +14,7 @@ namespace AtividadeMatriz
     {
         private int[,] matriz = new int[7, 7];
         int x, y, pontuacao;
+        Random rnd = new Random();
 
 
         public frmJogo()
@@ -23,99 +24,79 @@ namespace AtividadeMatriz
 
         }
 
-        public int iniciarJogo()
+        public void iniciarJogo()
         {
             pontuacao = 0;
-            int valor = 0;
-            Random rnd = new Random();
-            x = rnd.Next(0, 6);
-            y = rnd.Next(0, 6);
+            int valor = 1;
+            x = rnd.Next(0, 7);
+            y = rnd.Next(0, 7);
 
             for (int i = 0; i < 7; i++)
             {
                 for (int j = 0; j < 7; j++)
                 {
                     matriz[i,j] = valor++;
+
                 }
             }
 
             MessageBox.Show(matriz[x, y].ToString());
-            return matriz[x,y];
 
         }
-        public void acertouBola()
+       
+
+        public bool validarPalpite(int valor)
         {
-            x = 0;
-            y = 0;
-
-            return;
+            return valor == matriz[x, y];
         }
 
 
-        public Boolean validarBola(int valor)
-        {
-            Boolean acertou = false;
-            
-
-            for (int i = 0; i < 7; i++)
-            {
-                for (int j = 0; j < 7; j++)
-                {
-                    if(valor == matriz[x, y])
-                    {
-                        acertou = true;
-                        acertouBola();
-                    }
-                }
-            }
-
-            return acertou;
-        }
 
         private void enviarPalpite(object sender, MouseEventArgs e)
         {
             int valor;
-            Boolean acertou = false;
+
             Button botaoClicado = sender as Button;
 
-            try
+            if (botaoClicado == null)
+                return;
+
+            
+            int.TryParse(botaoClicado.Text, out valor);
+
+            bool acertou = validarPalpite(valor);
+
+            if (acertou)
             {
-                int.TryParse(botaoClicado.Text, out valor);
-                acertou = validarBola(valor);
+                MessageBox.Show("Você acertou");
+                pontuacao++;
+                lblPontos.Text = pontuacao.ToString();
 
-                if (acertou)
+                DialogResult dialogResult = MessageBox.Show(
+                    "Deseja começar um novo jogo?",
+                    "",
+                    MessageBoxButtons.YesNo
+                );
+
+                if (dialogResult == DialogResult.Yes)
                 {
-                    MessageBox.Show("Você acertou");
-                    pontuacao++;
-                    lblPontos.Text = pontuacao.ToString();
-
-                    DialogResult dialogResult = MessageBox.Show("Deseja começar um novo jogo?", "", MessageBoxButtons.YesNo);
-
-                    if (dialogResult == DialogResult.Yes)
-                    {
-                        int aux = pontuacao;
-                        iniciarJogo();
-                        pontuacao = aux;
-
-                    }
-
-                    else
-                    {
-
-                    }
+                    int aux = pontuacao;
+                    iniciarJogo();
+                    pontuacao = aux;
                 }
-
                 else
-                    MessageBox.Show("Errado!\nTente outra vez!");
-
-
+                {
+                    
+                    this.Close();
+                }
             }
-            catch (Exception ex)
-            { 
-            
+            else
+            {
+                MessageBox.Show("Errado!\nTente outra vez!");
+
+                /*botaoClicado.UseVisualStyleBackColor = false;
+                botaoClicado.BackColor = Color.Gray;*/
             }
-            
-            
         }
     }
 }
