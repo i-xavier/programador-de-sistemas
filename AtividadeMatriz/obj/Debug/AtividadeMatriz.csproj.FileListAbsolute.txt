@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\bin\Debug\AtividadeMatriz.exe.config
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\bin\Debug\AtividadeMatriz.exe
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\bin\Debug\AtividadeMatriz.pdb
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.exe
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.pdb
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.exe.config
+C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.frmJogo.resources
