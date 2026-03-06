@@ -1,0 +1,11 @@
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\bin\Debug\tabuadaComLoop.exe.config
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\bin\Debug\tabuadaComLoop.exe
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\bin\Debug\tabuadaComLoop.pdb
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.frmTabuadaLoop.resources
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.exe
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.pdb
+C:\Users\igor.xsantos1\source\repos\tabuadaComLoop\obj\Debug\tabuadaComLoop.exe.config
