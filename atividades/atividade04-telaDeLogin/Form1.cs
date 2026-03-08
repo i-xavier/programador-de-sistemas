@@ -14,8 +14,8 @@ namespace atividade04_telaDeLogin
     {
         String emailCorreto = "123";
         String senhaCorreta = "123";
-        Boolean logado = false;
-        int i = 0;
+        int tentativas = 0;
+        int maxTentativas = 3;
 
         public frmLogin()
         {
@@ -24,26 +24,29 @@ namespace atividade04_telaDeLogin
 
         private void Logar(object sender, MouseEventArgs e)
         {
+            if (tentativas >= maxTentativas)
+            {
+                MessageBox.Show("Sua conta está bloqueada!.", "Erro");
+                btnLogar.Enabled = false;
+                return;
+            }
 
-            validarLogin(txtUsuario.Text, txtSenha.Text);
 
-            if (logado == true)
+            if (txtUsuario.Text == emailCorreto && txtSenha.Text == senhaCorreta)
             {
                 MessageBox.Show("Bem-vindo!");
             }
+
             else
             {   
-                while(i < 3)
+                while(tentativas < maxTentativas)
                 {
-                    i++;
-                    MessageBox.Show("Senha incorreta. Você tem mais " + (3 - i) + "tentativa.");
+                    MessageBox.Show("Senha incorreta. Você tem mais " + (maxTentativas - ++tentativas) + "tentativa.");
                     break;
                 }
             }
 
-            
-
-            if (i == 3)
+            if (tentativas == maxTentativas)
             {
                 MessageBox.Show("Sua conta foi bloqueada!.", "Erro");
                 btnLogar.Enabled = false;
@@ -52,13 +55,6 @@ namespace atividade04_telaDeLogin
 
         }
 
-        private void validarLogin(String user, String senha)
-        {
-            if (user == emailCorreto && senha == senhaCorreta)
-            {
-                logado = true;
-            }
-        }
 
     }
 }

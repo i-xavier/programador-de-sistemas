@@ -81,7 +81,11 @@
             this.lblPontos = new System.Windows.Forms.Label();
             this.lblPontuacao = new System.Windows.Forms.Label();
             this.lblTitulo = new System.Windows.Forms.Label();
+            this.lblDicaTitulo = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn1
@@ -740,6 +744,7 @@
             this.lblPontos.Size = new System.Drawing.Size(177, 55);
             this.lblPontos.TabIndex = 52;
             this.lblPontos.Text = "0";
+            this.lblPontos.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblPontuacao
             // 
@@ -762,12 +767,43 @@
             this.lblTitulo.TabIndex = 54;
             this.lblTitulo.Text = "Adivinhe o número";
             // 
+            // lblDicaTitulo
+            // 
+            this.lblDicaTitulo.AutoSize = true;
+            this.lblDicaTitulo.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDicaTitulo.Location = new System.Drawing.Point(99, 247);
+            this.lblDicaTitulo.Name = "lblDicaTitulo";
+            this.lblDicaTitulo.Size = new System.Drawing.Size(99, 54);
+            this.lblDicaTitulo.TabIndex = 55;
+            this.lblDicaTitulo.Text = "Dica";
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.DarkRed;
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Location = new System.Drawing.Point(63, 307);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(177, 100);
+            this.panel1.TabIndex = 56;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Gold;
+            this.label1.Location = new System.Drawing.Point(62, 23);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 50);
+            this.label1.TabIndex = 0;
+            // 
             // frmJogo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
             this.ClientSize = new System.Drawing.Size(800, 490);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.lblDicaTitulo);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.lblPontuacao);
             this.Controls.Add(this.lblPontos);
@@ -776,6 +812,8 @@
             this.Text = "Jogo - Acerte o número!";
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.enviarPalpite);
             this.groupBox1.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -836,6 +874,9 @@
         private System.Windows.Forms.Label lblPontos;
         private System.Windows.Forms.Label lblPontuacao;
         private System.Windows.Forms.Label lblTitulo;
+        private System.Windows.Forms.Label lblDicaTitulo;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label1;
     }
 }
 

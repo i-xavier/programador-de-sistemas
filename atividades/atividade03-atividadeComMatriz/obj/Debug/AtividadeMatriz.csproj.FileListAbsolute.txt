@@ -9,3 +9,14 @@ C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.ex
 C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.pdb
 C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.exe.config
 C:\Users\igor.xsantos1\source\repos\AtividadeMatriz\obj\Debug\AtividadeMatriz.frmJogo.resources
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\bin\Debug\AtividadeMatriz.exe.config
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\bin\Debug\AtividadeMatriz.exe
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\bin\Debug\AtividadeMatriz.pdb
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.csproj.AssemblyReference.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.exe.config
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.frmJogo.resources
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.Properties.Resources.resources
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.csproj.GenerateResource.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.exe
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade03-atividadeComMatriz\obj\Debug\AtividadeMatriz.pdb

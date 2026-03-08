@@ -40,7 +40,7 @@ namespace AtividadeMatriz
                 }
             }
 
-            MessageBox.Show(matriz[x, y].ToString());
+            //MessageBox.Show(matriz[x, y].ToString());
 
         }
        
@@ -65,6 +65,20 @@ namespace AtividadeMatriz
             int.TryParse(botaoClicado.Text, out valor);
 
             bool acertou = validarPalpite(valor);
+
+            if (valor > matriz[x, y])
+            {
+                label1.Text = "<";
+            }
+            else if (valor < matriz[x, y])
+            {
+                label1.Text = ">";
+            }
+            else
+            {
+                label1.Text = "=";
+
+            }
 
             if (acertou)
             {
@@ -97,6 +111,8 @@ namespace AtividadeMatriz
                 /*botaoClicado.UseVisualStyleBackColor = false;
                 botaoClicado.BackColor = Color.Gray;*/
             }
+
+            
         }
     }
 }
