@@ -9,3 +9,14 @@ C:\Users\igor.xsantos1\source\repos\jogoDeNumeros\obj\Debug\jogoDeNumeros.csproj
 C:\Users\igor.xsantos1\source\repos\jogoDeNumeros\obj\Debug\jogoDeNumeros.exe
 C:\Users\igor.xsantos1\source\repos\jogoDeNumeros\obj\Debug\jogoDeNumeros.pdb
 C:\Users\igor.xsantos1\source\repos\jogoDeNumeros\obj\Debug\jogoDeNumeros.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\bin\Debug\jogoDeNumeros.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\bin\Debug\jogoDeNumeros.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\bin\Debug\jogoDeNumeros.pdb
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.csproj.AssemblyReference.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.exe.config
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.frmJogoNumeros.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.Properties.Resources.resources
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.csproj.GenerateResource.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.exe
+C:\Users\igor.xsantos1\source\repos\programador-de-sistemas-T2\jogoDeNumeros\obj\Debug\jogoDeNumeros.pdb

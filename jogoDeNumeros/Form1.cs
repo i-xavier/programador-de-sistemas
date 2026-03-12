@@ -26,7 +26,7 @@ namespace jogoDeNumeros
         private void frmJogoNumeros_Load(object sender, EventArgs e)
         {
             Random ramdom = new Random();
-            randomNumber = ramdom.Next(1, 101); //número aleatóeio entre 1 e 100
+            randomNumber = ramdom.Next(1, 101); //número aleatório entre 1 e 100
         }
 
         private void btnTentativa_Click(object sender, EventArgs e)
@@ -38,8 +38,10 @@ namespace jogoDeNumeros
                 return;
             }
 
-            if (numeroTentativas == 0)
+            // Veridica se o número de tentativas chegou a 0
+            if (numeroTentativas == 1)
             {
+                lblNumerosTentativas.Text = "0";
                 txtResultado.Text = "Você não tem mais tentativas. O jogo acabou";
                 return;
             }
@@ -53,6 +55,26 @@ namespace jogoDeNumeros
 
             numeroTentativas--;
             lblNumerosTentativas.Text = numeroTentativas.ToString();
+
+            if (palpiteDoJogador == randomNumber)
+            {
+                jogoGanho = true;
+                dica = "Parabéns, você acertou!";
+            
+            }
+            else if (palpiteDoJogador < randomNumber) 
+            {
+
+                dica = "Digite um número maior";
+
+            }
+            else
+            {
+
+                dica = "Digite um número menor";
+            }
+
+            txtResultado.Text = dica;
         }
     }
 }
