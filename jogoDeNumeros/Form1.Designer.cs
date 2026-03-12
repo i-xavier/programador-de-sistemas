@@ -136,6 +136,7 @@
             this.Controls.Add(this.panelTopo);
             this.Name = "frmJogoNumeros";
             this.Text = "Jogo de Números";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmJogoNumeros_Load);
             this.panelTopo.ResumeLayout(false);
             this.panelTopo.PerformLayout();
