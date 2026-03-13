@@ -1,0 +1,11 @@
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.exe.config
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.exe
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\bin\Debug\atividade05-sidebar-menu.pdb
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.AssemblyReference.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05_sidebar_menu.Properties.Resources.resources
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.GenerateResource.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.csproj.CoreCompileInputs.cache
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.exe
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.pdb
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05-sidebar-menu.exe.config
+C:\Users\X\OneDrive\Documents\Programas\C#\programador-de-sistemas-T2\atividades\atividade05-sidebar-menu\obj\Debug\atividade05_sidebar_menu.lblMenu.resources
